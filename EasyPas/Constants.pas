@@ -2,7 +2,6 @@
 
 const
   PI = 3.14;
-  FELIX_YEARS = 14;
   H = 'Hello User';
   VSK = '!';
   
@@ -13,6 +12,6 @@ var
 
 begin
 
-  writeln(H,VSK,' ','Число PI=',PI,'. Тебе ', FELIX_YEARS, ' лет.');
+  writeln(H,VSK,' ','Число PI=',PI);
 
 end.
