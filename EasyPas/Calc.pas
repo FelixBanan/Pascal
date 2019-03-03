@@ -5,9 +5,9 @@ var
 
 begin
 
-  writeln('Введите значение a');
+  write('Введите значение a: ');
   read(a);
-  writeln('Введите значение b');
+  write('Введите значение b: ');
   read(b);
   
   writeln('a+b=', a+b);
