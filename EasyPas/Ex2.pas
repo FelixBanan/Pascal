@@ -1,4 +1,4 @@
-﻿Program test;
+﻿Program ex2;
 
 var
   x, y, x2, x3: real;
