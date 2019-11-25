@@ -7,17 +7,12 @@ var
 begin
 
   a := 12;
-  
   b := 12;
 
   if (a = b) then
-    begin
-      a := 13;
-    end
+      a := 13
   else
-    begin
       a := 14;
-    end;
   //Конец Блока IF
    
    writeln(a);
